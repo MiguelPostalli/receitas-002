@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+table{
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  border: 2px solid black;
+  padding: 8px;
+  text-align: center;
+}
+th{
+  background-color: #
+    d121e9
+;
+}
+p{
+  color: blue;
+ font-familly: Arial, Helvetica, sans-serif; 
+ font-size: 20px;
+ font-weight: bold;
+}
+
+li{
+color: blue;
+ font-familly: Arial, Helvetica, sans-serif;
+ font-size: 20px;
+ font-weight: bold;
+
+}
+
+
+a{
+  color: blue;
+ font-familly: Arial, Helvetica, sans-serif;
+ font-size: 20px;
+ font-weight: bold;
+}
